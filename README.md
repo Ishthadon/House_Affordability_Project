@@ -72,3 +72,5 @@ External factors (utilities, healthcare, etc.) were not included in the current 
 -Scripts (if uploaded) replicating the analysis in Python.
 
 -Cleaned data & feature engineering logic (if available).
+
+Resummarize this in the same format
